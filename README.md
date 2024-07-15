@@ -1,10 +1,14 @@
 ![tp2](https://github.com/fiuba/algo3_proyecto_base_tp2/actions/workflows/build.yml/badge.svg) [![codecov](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2/branch/master/graph/badge.svg)](https://codecov.io/gh/fiuba/algo3_proyecto_base_tp2)
-# TP2 Algoritmos 3: {AlgoStar} 
+# TP2 Algoritmos 3 AlgoStar
+
+<div align="center">
+    <img src="images/algostar.jpeg" alt="Algostar" style="width:300px;">
+</div>
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
-###Informe: https://www.overleaf.com/project/6374fed53bf6d0da391f779b
+### Informe: https://www.overleaf.com/project/6374fed53bf6d0da391f779b
 
-## Grupo {N}
+## Grupo
 
 * **Abraham Osco** - https://github.com/AbrahamOsco
 * **Nicolas Girardi** - https://github.com/nicolasgirardi
@@ -12,7 +16,6 @@ Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUB
 * **Martin Wainwright** - https://github.com/wain02
 * **Jonathan Marcelo Huata Vasquez** - https://github.com/Jonathan-Huata-Vasquez
 
-Corrector: **{Corrector}**
 
 ## Aplicación
 
@@ -24,7 +27,7 @@ $ java -jar <archivo.jar>
 
 ## Desarrollo
 
-Aquellos que deseen colaborar con el proyecto pueden consultar la [guía de desarrollo](./docs/Desarrollo.md).
+Aquellos que deseen colaborar o utilizar el proyecto pueden consultar la [guía de desarrollo](./docs/Desarrollo.md).
 
 ## Licencia
 
