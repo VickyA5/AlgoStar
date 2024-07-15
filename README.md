@@ -2,7 +2,7 @@
 # TP2 Algoritmos 3 AlgoStar
 
 <div align="center">
-    <img src="images/algostar.jpeg" alt="Algostar" style="width:300px;">
+    <img src="images/algostar.jpeg" alt="Algostar" style="width:600px;">
 </div>
 
 Trabajo Práctico número 2 de la materia Algoritmos y Programación III de FIUBA
